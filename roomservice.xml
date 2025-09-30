@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- DEVICES -->
-  <project name="exynos5420/android_device_samsung_chagallwifi" path="device/samsung/chagallwifi" remote="github" />
+  <project name="salih4187/android_device_samsung_chagallwifi" path="device/samsung/chagallwifi" remote="github" />
   <project name="salih4187/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" />
   <project name="salih4187/android_device_samsung_chagall-common" path="device/samsung/chagall-common" remote="github" />
   <project name="exynos5420/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
