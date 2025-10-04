@@ -4,10 +4,10 @@
   <project name="salih4187/android_device_samsung_chagallwifi" path="device/samsung/chagallwifi" remote="github" />
   <project name="salih4187/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" />
   <project name="salih4187/android_device_samsung_chagall-common" path="device/samsung/chagall-common" remote="github" />
-  <project name="exynos5420/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
+  <project name="salih4187/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
   <project name="exynos5420/android_device_samsung_klimtltecan" path="device/samsung/klimtltecan" remote="github" />
-  <project name="exynos5420/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" />
-  <project name="exynos5420/android_device_samsung_klimt-common" path="device/samsung/klimt-common" remote="github" />
+  <project name="salih4187/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" />
+  <project name="salih4187/android_device_samsung_klimt-common" path="device/samsung/klimt-common" remote="github" />
   <project name="exynos5420/android_device_samsung_n1a-common" path="device/samsung/n1a-common" remote="github" />
   <project name="exynos5420/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" />
   <project name="exynos5420/android_device_samsung_n2a-common" path="device/samsung/n2a-common" remote="github" />
