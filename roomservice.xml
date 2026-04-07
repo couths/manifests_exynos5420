@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="codeberg"
+          fetch="https://codeberg.org/"/>
   <!-- DEVICES -->
   <project name="salih4187/android_device_samsung_chagallwifi" path="device/samsung/chagallwifi" remote="github" revision="lineage-18.1"/>
   <project name="salih4187/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" revision="lineage-18.1"/>
   <project name="exynos5420/android_device_samsung_chagall-common" path="device/samsung/chagall-common" remote="github" revision="lineage-18.1"/>
-  <project name="salih4187/android_device_samsung_ha3g" path="device/samsung/ha3g" remote="github" revision="lineage-18.1"/>
+  <project name="couths/android_device_samsung_ha3g" path="device/samsung/ha3g" remote="github" revision="lineage-18.1"/>
   <project name="salih4187/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" revision="lineage-18.1"/>
   <project name="salih4187/android_device_samsung_klimtltecan" path="device/samsung/klimtltecan" remote="github" revision="lineage-18.1"/>
   <project name="salih4187/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" revision="lineage-18.1"/>
@@ -48,4 +50,10 @@
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="github" revision="lineage-18.1"/>
   <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="lineage-18.1"/>
   <project name="salih4187/android_hardware_samsung_slsi_exynos5420" path="hardware/samsung_slsi/exynos5420" remote="github" revision="lineage-18.1"/>
+
+  <!-- PREBUILTS -->
+  <project name="mse1969/AuroraStore-prebuilt" path="prebuilts/AuroraStore" remote="codeberg" revision="master" />
+  <project name="couths/Droid-ify-prebuilt" path="prebuilts/Droid-ify" remote="github" revision="main" />
+  <project name="couths/Fossify-File-Manager-prebuilt" path="prebuilts/Fossify-File-Manager" remote="github" revision="main" />
+  <project name="couths/SafetyCore-KeyVerifier_blocker" path="prebuilts/SafetyCore-KeyVerifier_blocker" remote="github" revision="main" />
 </manifest>
