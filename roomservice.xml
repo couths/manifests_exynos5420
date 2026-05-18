@@ -58,5 +58,5 @@
   <project name="couths/SafetyCore-KeyVerifier_blocker" path="prebuilts/SafetyCore-KeyVerifier_blocker" remote="github" revision="main" />
 
   <!-- KEYS -->
-  <project name="couths/android_certs" path="vendor/extra" remote="github" revision="main" />
+  <project name="couths/android_certs" path="vendor/extra" remote="github" revision="old" />
 </manifest>
